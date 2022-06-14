@@ -1,6 +1,13 @@
 /* Importing Google fonts */
 @import url("https://fonts.googleapis.com/css2?family=Varela+Round");
 
+/* Importing components */
+@import url("components/cards.css");
+
+/* Importing layouts */
+@import url("layouts/map.css");
+@import url("layouts/queries.css");
+
 body {
   margin: 0;
   font-family: 'Varela Round', sans-serif;
